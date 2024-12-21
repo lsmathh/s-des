@@ -22,7 +22,7 @@ make
 ou:
 
 ```
-g++ main.cpp sdes.cpp sdes_demo.cpp -o SDES
+g++ main.cpp sdes.cpp sdes_demo.cpp -o sdes
 ```
 
 Para executar:
